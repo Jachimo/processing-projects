@@ -10,6 +10,12 @@ Most of the code here is somewhat trivial, but sometimes the results are interes
 
 HersheyFont (https://github.com/ixd-hof/HersheyFont) is used to create single-stroke text that can be printed using a pen plotter.  To use it within Processing, the library (`HersheyFont.zip`) must be downloaded, uncompressed, and placed in the Processing `/library` directory.  This will resolve import errors.  Note that the top-level Github project for HersheyFont is not a valid Processing library!
 
+## References
+
+Some of the projects are basically worked examples from Matt Pearson's excellent book [_Generative Art_ (Manning Publications, 2011)](https://www.manning.com/books/generative-art).  Strongly recommended if you are interested in generative/algorithmic art!
+
+If you want to see *all* the examples in the book in runnable form, there's (naturally) a GitHub repo for that: https://github.com/samaaron/gen-art
+
 ## Licensing
 
 ### Code
